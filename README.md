@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **fideism/fideism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +20,6 @@ Here are some ideas to get you started:
 
 ### Hello, I'm fideism 👋
 
-```
  _   _       _   _     _               _     
 | \ | | ___ | |_| |__ (_)_ __   __ _  (_)___ 
 |  \| |/ _ \| __| '_ \| | '_ \ / _` | | / __|
@@ -41,5 +38,5 @@ __      _(_) | (_)_ __   __ _  | |__   ___  __ _ _ __| |_
  \ V  V /| | | | | | | | (_| | | | | |  __/ (_| | |  | |_ 
   \_/\_/ |_|_|_|_|_| |_|\__, | |_| |_|\___|\__,_|_|   \__|
                         |___/                             
-
+<<<<<<< HEAD
 ```
