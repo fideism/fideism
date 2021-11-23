@@ -17,9 +17,7 @@ Here are some ideas to get you started:
   <img align="center" src="/imgs/v2-4affc36474cef5c3f582ebfe3619cc20_720w.gif"/>
 </p>
 
-
-### Hello, I'm fideism 👋
-
+<!-- ### Hello, I'm fideism 👋 -->
 ```
  _   _       _   _     _               _     
 | \ | | ___ | |_| |__ (_)_ __   __ _  (_)___ 
