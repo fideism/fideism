@@ -2,8 +2,6 @@
   <img align="center" src="./imgs/v2-4affc36474cef5c3f582ebfe3619cc20_720w.gif"/>
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fideism&show_icons=true&theme=cobalt" alt="fideism's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fideism&layout=compact&theme=cobalt&hide_border=true" alt="fideism's github languages"/></a> |
-| ------------- | ------------- |
 
 
 ```
